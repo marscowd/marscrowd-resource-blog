@@ -3,22 +3,6 @@ layout: default
 title: "Frequently Asked Questions"
 layout: page
 ---
-
-- [Frequently Asked Questions](#frequently-asked-questions)
-    * [What is Marscrowd](#what-is-marscrowd)
-    * [Why work for Marscrowd](#why-work-for-marscrowd)
-    * [How to work for Marscrowd](#how-to-work-for-marscrowd)
-    * [What kind of work to expect from Marscrowd](#what-kind-of-work-to-expect-from-marscrowd)
-    * [How do I get paid?](#how-do-i-get-paid)
-    * [How to be successful in Marscrowd](#how-to-be-successful-in-marscrowd)
-    * [Who can join our Crowd](#who-can-join-our-crowd)
-    * [What are the requirements for working at Marscrowd?](#what-are-the-requirements-for-working-at-marscrowd)
-    * [Do I have to go to the office](#do-i-have-to-go-to-the-office)
-    * [Is there a mininum limit for cash withdrawals](#is-there-a-mininum-limit-for-cash-withdrawals)
-    * [Where can I find more support?](#where-can-i-find-more-support)
-
-
-
 ## What is Marscrowd
 Marscrowd is a data labelling and data collection service that provides data for machine learning providers. Resources at Marscrowd perform 'micro-tasks' that are easy for humans but difficult for computers like identifying objects, voice recording, translation, transcription. People working for Marscrowd are from all corners of the world, work from home and participate in projects of all sizes at their own pace
 
