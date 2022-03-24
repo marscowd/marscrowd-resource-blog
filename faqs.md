@@ -52,7 +52,7 @@ Please kindly refer to the below steps:
 3. After signing the contract <a href="/assets/images/contract-step-3.png" rel="some text">Go to the My invoices page</a>
 
 ### How long does the payment will be processed?
-The payment will take approximately five business days. As we arrange a weekly payment process, every invoice submitted before the end of the week, Friday mornings (GMT+8), you will receive the payment within the following week.
+As our accountant collects invoices Friday morning (GMT+8), invoices are processed every Friday and payment will arrive at your account around 20 working days after the invoices are processed.
 
 ### Can I use a bank transfer to receive my money?
 We suggest using Paypal or Payoneer to receive your payment than a bank fee transfer because of various restrictions from the banks. Sometimes we cannot arrange the bank transfer.
